@@ -25,8 +25,8 @@ Love Island is a simple dating app backend built with Node.js, Express, and Mong
 
 2. **Clone your forked repository**:
 ```sh
-git clone https://github.com/your-username/love-island.git
-cd love-island
+git clone https://github.com/your-username/cupid.git
+cd cupid
 ```
 
 Install dependencies:
