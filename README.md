@@ -1,6 +1,6 @@
-# 💕 Love Island - Dating App API
+# Cupid - Dating App API
 
-Love Island is a simple dating app backend built with Node.js, Express, and MongoDB. This API allows users to sign up, sign in, find potential matches based on interests and hobbies, send love requests, chat with matched users, and more.
+Cupid is a simple dating app backend built with Node.js, Express, and MongoDB. This API allows users to sign up, sign in, find potential matches based on interests and hobbies, send love requests, chat with matched users, and more.
 
 ---
 
